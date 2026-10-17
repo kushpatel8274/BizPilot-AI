@@ -1,0 +1,11 @@
+# Local business data and secrets stay out of Git.
+data/
+*.db
+*.sqlite
+*.sqlite3
+.env
+.streamlit/secrets.toml
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc

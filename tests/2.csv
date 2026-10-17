@@ -1,0 +1,11 @@
+SKU,Product Name,Qty,Minimum Stock,Price,Category,Supplier
+P201,Keyboard,10,5,500,Accessories,ABC Supplies
+P202,Mouse,3,5,250,Accessories,XYZ Traders
+P203,27-inch Monitor,15,3,15000,Electronics,TechDistro Corp
+P204,USB-C Hub,40,10,1200,Accessories,ABC Supplies
+P205,Wireless Headset,8,5,3500,Audio,SoundWave Ltd
+P206,HD Webcam,2,5,4500,Electronics,VisionTech Inc
+P207,Ergonomic Chair,6,2,12000,Furniture,Comfort Spaces
+P208,External SSD 1TB,25,8,6500,Storage,DataVault Co
+P209,RGB Mousepad,50,15,800,Accessories,XYZ Traders
+P210,Mechanical Keyboard,12,4,4200,Accessories,ABC Supplies

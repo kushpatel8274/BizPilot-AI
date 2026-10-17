@@ -1,0 +1,4 @@
+sku,name,quantity,reorder_level
+P001,Keyboard,2,5
+P002,Mouse,20,5
+TEST99,Monitor,0,3
