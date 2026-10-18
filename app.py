@@ -19,13 +19,6 @@ from bizpilot.business import (
     parse_inventory_csv,
 )
 
-
-# ---------- BizPilot AI: editorial "growth studio" theme ----------
-# Inspired by the structure and motion of astounddigital.com:
-# a dark hero with a scrolling ticker, big confident type, numbered
-# sections, count-up statistics, hover-fill cards and a dark closing band.
-# The palette and copy are original to BizPilot AI.
-
 BIZPILOT_THEME_CSS = """
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
